@@ -1,0 +1,159 @@
+		body{
+				background-color: rgb(242, 242, 242);
+
+		
+		
+		}
+
+		#webpage-container{
+				  background-color: white;
+				  margin: auto;
+				  width: 900px;
+				  border-right-style: solid;
+				  border-left-style: solid;
+				  border-width: thin;
+				  border-color: rgb(208, 208, 208);
+				    box-shadow: 0 0 30px rgb(221, 218, 218);
+		
+		}
+		
+		#banner-container{
+		
+			    background-color: white;
+				
+				
+				padding: 10px;
+							
+		}
+		#srchbox{
+		  width: 240px;
+		}
+		#cmb_area{
+		width: 200px;
+		}
+		#cmb_comp_cat{
+		width: 200px;
+		}
+		#report_type{
+		width: 200px;
+		}
+		#xname{
+		
+		width: 200px;
+		
+		}
+		#upcat,#upfiled{
+		width: 200px;
+		}
+		#report_options{
+		    margin: auto;
+			padding: 10px;
+		  background-color: lavender;
+		
+		}
+		#area_id{
+		width:200px;
+		}
+		#report_area{
+		width:180px;
+		}
+		#report_grouping{
+		height:30px;
+		width:180px;
+		}
+		#report_type{
+		height:30px;
+		width:180px;
+		}
+		#namex{
+		width: 200px;
+		}
+		#cmb_user_type
+		{
+		width: 200px;
+		}
+		#cmb_area_update
+		{
+		width: 200px;
+		}
+		#upnamex{
+		width: 200px;
+		}
+		#uptype{
+		width: 200px;
+		}
+		
+		#form_bg{
+		  background-color: rgb(234, 250, 250);
+		  width: 400px;
+		  margin: auto;
+		  padding: 30px;
+		  border-style: solid;
+		  border-width: thin;
+		  border-color: rgb(224, 226, 226);
+	
+		}
+		
+		#footdetails-login{
+		
+		  margin: 50px;
+		}
+		#menu-container{
+			
+			background-color: #FFF;
+			
+		}
+		
+		#fibeco-logo{
+		  height: 125px;
+		}
+		#savearea{
+		align:right;
+		
+		}
+		#startdate{
+		height:30px;
+		width:140px;
+		background-color: white;
+		}
+		
+		#enddate{
+		height:30px;
+		width:140px;
+		background-color: white;
+		}
+			
+		
+		#pages-container{
+			  
+			  margin: auto;
+			  width: 900px;
+			  padding: 20px;
+			
+		}
+		a,u{
+		text-decoration:none;
+		
+		}
+		#footer-container{
+		  border-top-style: solid;
+		  border-top-width: thin;
+		  border-top-color: rgb(228, 228, 228);
+		  border-bottom-style: solid;
+		  border-bottom-width: thin;
+		  border-bottom-color: rgb(228, 228, 228);
+		  width: 850px;
+		  margin: auto;
+		
+		}
+	#bgmod{
+	  background-color: rgb(232, 237, 237);
+	}	
+	#arid{
+	
+	}
+	.row{
+	  border-bottom-style: solid;
+	  border-bottom-width: thin;
+	  border-color: antiquewhite;
+	}
